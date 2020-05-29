@@ -14,6 +14,23 @@
 ## Ferramentas
 
 - REACT at <a href="https://pt-br.reactjs.org/" target="_blank">`pt-br.reactjs.org`</a>
+- Visual Studio Code <a href="https://code.visualstudio.com/" target="_blank">`code.visualstudio.com`</a>
+- NODEJS <a href="https://nodejs.org/en/" target="_blank">`nodejs.org/en/`</a>
+- MONGODB <a href="https://www.mongodb.com/" target="_blank">`mongodb.com/`</a>
+- MONGODB ATLAS <a href="https://www.mongodb.com/cloud/atlas" target="_blank">`mongodb.com/cloud/atlas`</a>
+- ADOBEXD <a href="https://www.adobe.com/br/products/xd.html" target="_blank">`adobe.com/br/products/xd.html`</a>
+- GIT <a href="https://git-scm.com/" target="_blank">`git-scm.com/`</a>
+- GOOGLE DRIVE <a href="https://drive.google.com/" target="_blank">`drive.google.com/`</a>
+- DRAW.IO <a href="https://app.diagrams.net//" target="_blank">`app.diagrams.net/`</a>
+
+
+## APIs
+
+
+- SKYSCANNER <a href="https://rapidapi.com/skyscanner/api/skyscanner-flight-search" target="_blank">`skyscanner-flight-search`</a>
+- CLICKBUS <a href="https://docs.clickbus.com.br/" target="_blank">`https://docs.clickbus.com.br/`</a>
+
+
 
 **Badges will go here**
 
