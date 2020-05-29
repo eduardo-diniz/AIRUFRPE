@@ -11,6 +11,10 @@
 > Projeto de um WEBSITE voltado para turismo de baixo custo.
 
 
+## Ferramentas
+
+- REACT at <a href="https://pt-br.reactjs.org/" target="_blank">`pt-br.reactjs.org`</a>
+
 **Badges will go here**
 
 - build status
